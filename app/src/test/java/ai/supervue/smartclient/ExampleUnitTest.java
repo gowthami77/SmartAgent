@@ -1,4 +1,4 @@
-package ai.yantranet.smartagent;
+package ai.supervue.smartclient;
 
 import org.junit.Test;
 
