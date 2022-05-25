@@ -1,4 +1,4 @@
-package ai.supervue.smartclient;
+package ai.yantranet.smartagent;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("ai.supervue.smartclient", appContext.getPackageName());
+        assertEquals("ai.yantranet.smartagent", appContext.getPackageName());
     }
 }
